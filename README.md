@@ -5,7 +5,7 @@
 1. 下载代码 
     `https://github.com/theshy456/kuayu.git`
 2. 进入 qq-com 运行 server.js
-    `cd kuayu-1/qq-com; node-dev server.js 8888`
+    `cd kuayu/qq-com; node-dev server.js 8888`
 3. 进入 frank-com 运行 server.js
     `cd ../frank-com; node-dev server.js 9999`
 4. 设置 hosts
